@@ -1,5 +1,6 @@
-#Betway Assessment Task :
-###Requirements in Scope 
+Betway Assessment Task :
+
+Requirements in Scope 
 
 For the given API endpoint verify the following scenarios .
 
@@ -11,14 +12,14 @@ For the given API endpoint verify the following scenarios .
 
 1.  JDK 8 should be available in the system and JAVA_HOME should point to  JDK folder
  e.g. - > setx -m JAVA_HOME "C:\Progra~1\Java\jdk1.8.0_XX"
-1.   Follow the steps below to configure maven:
+2.   Follow the steps below to configure maven:
 
 - Visit [Maven official website](https://maven.apache.org/download.cgi) and download the Maven zip file, e.g. apache-   maven-3.6.0-bin.zip
 - Unzip it to a folder. e.g. c:\opt\apache-maven-3.6.0
 - Add MAVEN_HOME system variable, and point it to the Maven folder.
 - Add %MAVEN_HOME%\bin To PATH variable
 - verify maven installation using "mvn –version" in the command prompt 
-1.   Ensure chrome browser is installed and the version is 97.0.4692.99 .
+3.   Ensure chrome browser is installed and the version is 97.0.4692.99 .
 
 **To Run the project :**
 1.  Clone the project from GitHub to your system e.g. C:\API Test
