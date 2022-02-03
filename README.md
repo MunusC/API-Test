@@ -1,6 +1,6 @@
-Betway Assessment Task :
+                                                             Betway Assessment Task 
 
-Requirements in Scope 
+**Requirements in Scope :**
 
 For the given API endpoint verify the following scenarios .
 
